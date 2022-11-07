@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 32.8543,
+    "lat": 39.9199
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 289.47,
+    "feels_like": 288.25,
+    "temp_min": 288.82,
+    "temp_max": 290.73,
+    "pressure": 1012,
+    "humidity": 42
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.09,
+    "deg": 290
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1667820704,
+  "sys": {
+    "type": 2,
+    "id": 267643,
+    "country": "TR",
+    "sunrise": 1667795041,
+    "sunset": 1667832030
+  },
+  "timezone": 10800,
+  "id": 323786,
+  "name": "Ankara",
+  "cod": 200
+}
